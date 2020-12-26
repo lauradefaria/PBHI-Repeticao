@@ -237,5 +237,4 @@ function check(){          //Verifica se acertou os elementos
       //texto.innerText("Você acertou! Fase concluida");
       alert("Que pena, tente novamente!");
     }
-    alert("sextou");
   }
