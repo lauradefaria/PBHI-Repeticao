@@ -14,7 +14,6 @@ var arrayCaixa =[];    //Elementos colocados na caixa de resposta
 var arrayNucleo = [];  //Array para guardar o nucleo
 var arraySequencia = [];  //Array para guardar a sequecia
 var arrayOpcoes = [];  //Array contendo todos os elementos gerados nas opcoes
-var inversor = [];
 var tamNucleo;         //Quantos elementos o nucleo possui
 var etapaAtual;
 /** FIM VARIAVEIS */
